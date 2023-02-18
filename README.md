@@ -40,7 +40,7 @@ Download and Install all of the configuration objectives from the Installation F
 Admin Panel -> Agents -> Roles -> Supreme Admin
   
 Roles - Permissions - check off all boxes for permissions, 
-tasks and knowledgebases, save changes. Move on to Department Objective.
+tasks and knowledgebases, save changes. 
 
 </p>
 <br />
