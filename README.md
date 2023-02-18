@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Users (customers)
 - Configure SLA
 
-<h3>-Download and Install all of the configuration objectives from the Installation Files</h3>
+-Download and Install all of the configuration objectives from the Installation Files
 
 <h2>Configuration Steps </h2> 
 <p>
