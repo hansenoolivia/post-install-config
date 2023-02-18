@@ -68,6 +68,9 @@ Level I Support
 Level II Support Or
   
 Create new Team
+  
+*Allow anyone to create tickets-
+Admin panel, Users, Settings, (make sure you uncheck "Require registration and login to create tickets)*
 
 </p>
 <br />
@@ -76,44 +79,51 @@ Create new Team
 <img src="https://i.imgur.com/J028tSX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  
-Admin Panel -> Agents -> Roles -> Supreme Admin
+ 
+Agents - Admin Panel, Agents, Add new, ex. Jane Doe or John Doe., create username for both
+agents, create password (remember to write now your credentials so you dont forget) uncheck
+require password change at login and hit set. 
 
 </p>
 <br />
 
-<h2>Configuration Steps </h2> <h3>Download and Install all of the configuration objectives from the Installation Files</h3>
 
 <p>
-<img src="https://i.imgur.com/J028tSX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nvSkd2Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
-Admin Panel -> Agents -> Roles -> Supreme Admin
+Users - Agent Panel, Users, Add new user, create email and fill in full name.
 
 </p>
 <br />
 
-<h2>Configuration Steps </h2> <h3>Download and Install all of the configuration objectives from the Installation Files</h3>
+
 
 <p>
-<img src="https://i.imgur.com/J028tSX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9hxEwnf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
-Admin Panel -> Agents -> Roles -> Supreme Admin
+Admin Panel -> Manage -> SLA
+Sev-A (1 hour, 24/7)
+Sev-B (4 hours, 24/7)
+Sev-C (8 hours, business hours)
 
 </p>
 <br />
 
-<h2>Configuration Steps </h2> <h3>Download and Install all of the configuration objectives from the Installation Files</h3>
 
 <p>
-<img src="https://i.imgur.com/J028tSX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
   
-Admin Panel -> Agents -> Roles -> Supreme Admin
+<3>Configure Help Topics</h3>
+  
+Admin Panel -> Manage -> Help Topics
+Business Critical Outage
+Personal Computer Issues
+Equipment Request
+Password Reset
+
 
 </p>
 <br />
