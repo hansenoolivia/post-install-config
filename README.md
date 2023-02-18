@@ -64,7 +64,9 @@ adjust settings, "System Administrators", SLA default leave on. Save changes.*
  
 Admin Panel -> Agents -> Teams
 Level I Support
-Level II Support Or 
+  
+Level II Support Or
+  
 Create new Team
 
 
