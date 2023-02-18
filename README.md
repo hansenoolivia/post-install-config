@@ -80,9 +80,11 @@ Admin panel, Users, Settings, (make sure you uncheck "Require registration and l
 </p>
 <p>
  
-Agents - Admin Panel, Agents, Add new, ex. Jane Doe or John Doe., create username for both
-agents, create password (remember to write now your credentials so you dont forget) uncheck
-require password change at login and hit set. 
+Agents - Admin Panel, Agents, Add new, ex. Jane Doe or John Doe.,
+  
+create username for both agents, create password (remember to write now your credentials so you dont forget) 
+  
+uncheck require password change at login and hit set. 
 
 </p>
 <br />
@@ -106,8 +108,11 @@ Users - Agent Panel, Users, Add new user, create email and fill in full name.
 <p>
   
 Admin Panel -> Manage -> SLA
+  
 Sev-A (1 hour, 24/7)
+ 
 Sev-B (4 hours, 24/7)
+  
 Sev-C (8 hours, business hours)
 
 </p>
@@ -116,12 +121,16 @@ Sev-C (8 hours, business hours)
 
 <p>
   
-<3>Configure Help Topics</h3>
+<h3>Configure Help Topics</h3>
   
 Admin Panel -> Manage -> Help Topics
+
 Business Critical Outage
+
 Personal Computer Issues
+
 Equipment Request
+
 Password Reset
 
 
