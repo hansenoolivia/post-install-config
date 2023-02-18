@@ -29,15 +29,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Users (customers)
 - Configure SLA
 
+<h3>Download and Install all of the configuration objectives from the Installation Files</h3>
 
-<h2>Configuration Steps </h2> <h3>Download and Install all of the configuration objectives from the Installation Files</h3>
-
+<h2>Configuration Steps </h2> 
 <p>
 <img src="https://i.imgur.com/J028tSX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
 Admin Panel -> Agents -> Roles -> Supreme Admin
+  
+Roles - Permissions - check off all boxes for permissions, 
+tasks and knowledgebases, save changes. Move on to Department Objective.
 
 </p>
 <br />
