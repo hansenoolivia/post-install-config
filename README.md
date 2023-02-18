@@ -30,8 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure SLA
 
 
-<h2>Configuration Steps </h2>
-<h1>Download and Install all of the configuration objectives from the Installation Files</h1>
+<h2>Configuration Steps </h2> <h3>Download and Install all of the configuration objectives from the Installation Files</h3>
 
 <p>
 <img src="https://i.imgur.com/J028tSX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
