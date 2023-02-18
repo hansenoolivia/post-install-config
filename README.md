@@ -69,11 +69,8 @@ Level II Support Or
   
 Create new Team
 
-
 </p>
 <br />
-
-<h2>Configuration Steps </h2> <h3>Download and Install all of the configuration objectives from the Installation Files</h3>
 
 <p>
 <img src="https://i.imgur.com/J028tSX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
