@@ -119,20 +119,3 @@ Sev-C (8 hours, business hours)
 <br />
 
 
-<p>
-  
-<h3>Configure Help Topics</h3>
-  
-Admin Panel -> Manage -> Help Topics
-
-Business Critical Outage
-
-Personal Computer Issues
-
-Equipment Request
-
-Password Reset
-
-
-</p>
-<br />
